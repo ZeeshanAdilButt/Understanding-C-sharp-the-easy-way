@@ -1,0 +1,11 @@
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\bin\Debug\netcoreapp2.2\DelegateCalculatorExample.deps.json
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\bin\Debug\netcoreapp2.2\DelegateCalculatorExample.runtimeconfig.json
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\bin\Debug\netcoreapp2.2\DelegateCalculatorExample.runtimeconfig.dev.json
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\bin\Debug\netcoreapp2.2\DelegateCalculatorExample.dll
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\bin\Debug\netcoreapp2.2\DelegateCalculatorExample.pdb
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\obj\Debug\netcoreapp2.2\DelegateCalculatorExample.csprojAssemblyReference.cache
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\obj\Debug\netcoreapp2.2\DelegateCalculatorExample.csproj.CoreCompileInputs.cache
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\obj\Debug\netcoreapp2.2\DelegateCalculatorExample.AssemblyInfoInputs.cache
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\obj\Debug\netcoreapp2.2\DelegateCalculatorExample.AssemblyInfo.cs
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\obj\Debug\netcoreapp2.2\DelegateCalculatorExample.dll
+C:\Users\zeeAB\Desktop\Blogging\C# Series\Code\Understanding-C-the-easy-way\ConsoleApp1\DelegateCalculatorExample\obj\Debug\netcoreapp2.2\DelegateCalculatorExample.pdb
